@@ -1,4 +1,5 @@
 # Hero-25-26
+Hero was a competition robot designed and developed by the Hero Team of NUS Calibur for the RoboMaster University League 2026. The robot competed in the RoboMaster University League (RMUL) Chongqing 2026, held from 22–28 March 2026, where the team achieved a Top 32 finish.
 CAD of Hero Robot
 Drive Link for CAD:
 https://drive.google.com/drive/folders/1cBF7dmisG_X93taYaahkQLo9ytgaf1cN?usp=sharing
